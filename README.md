@@ -13,7 +13,7 @@
 Run the following command to launch the EigenFaces application:
 
 ```bash
-python3 eigenfaces.py
+python3 eigenface.py
 ``````
 
 This will open windows displaying the average face, the generated face using sliders, and individual eigenfaces. Adjust the sliders to modify eigenface weights and observe their effects on the generated face.
