@@ -5,7 +5,7 @@
 ## Getting Started
 
 1. Clone this repository to your local machine.
-2. Place your facial images in the `images/` folder.
+2. Place your facial images in the `data/` folder.
 3. Make sure you have Python and required libraries installed.
 
 ## Usage
